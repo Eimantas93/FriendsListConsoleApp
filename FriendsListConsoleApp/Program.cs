@@ -15,7 +15,7 @@ namespace FriendListConsoleApp
             string enteredName;
             ConsoleKeyInfo keyInfo;
 
-            Console.WriteLine("Sveiki atvyke i draugu saraso programa!");
+            Console.WriteLine("Sveiki atvyke i draugu saraso programa!!!");
             do
             {
                 Console.WriteLine("\nSpauskite SPACE - noredami ivesti nauja drauga, " +
